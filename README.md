@@ -24,7 +24,6 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/matthewstandish)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/matthewstandish)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/matthewstandish)
-[![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/matthewstandish)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/matthewstandish)
