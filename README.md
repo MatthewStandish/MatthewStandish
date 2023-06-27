@@ -42,6 +42,8 @@
 </p>
 </details>
 
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?matthewstandish=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/matthewstandish">
     <img src="https://komarev.com/ghpvc/?username=matthewstandish&color=blue&style=flat)" />
