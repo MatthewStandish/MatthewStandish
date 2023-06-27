@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/matthew-standish-1a55b9242/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mwstandish@aol.com">
+    <a href="mailto:mwstandish@aol.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
